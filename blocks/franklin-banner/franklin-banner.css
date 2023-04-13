@@ -1,0 +1,8 @@
+.franklin-banner{
+    background-color: blue;
+    padding : 5px;
+    position: absolute;
+    z-index: 2;
+    width: 500px;
+    height: 300px;
+}
